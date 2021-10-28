@@ -1,0 +1,1 @@
+* This Secret Santa project is a project where it randomly assigns a gift giver to a gift reciever.
